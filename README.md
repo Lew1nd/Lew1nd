@@ -1,7 +1,7 @@
 
 # 👋 Hola, soy Lew1nd
 <br>
-<p>Desarrollador especializado en videojuegos con Unity y C#, con experiencia en backend y desarrollo web.<br>Me interesa construir software escalable, videojuegos arcade y herramientas que puedan utilizarse en proyectos reales.
+<p>Desarrollador especializado en videojuegos con Unity y C#, con experiencia en backend y desarrollo web.<br>Me interesa construir software escalable, videojuegos y herramientas que puedan utilizarse en proyectos reales.
 </p>
 
 # 💻 Tech Stack:
@@ -55,4 +55,4 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-5C2D91?style=for-the-badge&logo=Obsidian&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=Lew1nd&theme=shadow_green&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=Lew1nd&theme=shadow_green&hide_border=false)
