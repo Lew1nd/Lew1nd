@@ -1,6 +1,5 @@
 
 # 👋 Hola, soy Lew1nd
-<br>
 <p>Desarrollador especializado en videojuegos con Unity y C#, con experiencia en backend y desarrollo web.<br>Me interesa construir software escalable, videojuegos y herramientas que puedan utilizarse en proyectos reales.
 </p>
 
